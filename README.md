@@ -16,7 +16,6 @@ Ralf, Rolf, Andi, Chinthu, Kevin
 - Agenturen direkt anschreiben (z.B. die IHK anschreiben)
 - Regelmäßige Blogposts zu verschiedenen Themen oder _Shorties_ (Code-Snippets) von Gist etc.
 - Vorträge für das kommende Jahr sammeln und vorbereiten. (Andi)
-- 
 
 **Geplant:**
 
