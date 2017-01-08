@@ -10,6 +10,12 @@ Ralf, Rolf, Andi, Chinthu, Kevin
 
 ## themen
 
+### WebDev Stammtisch bekannter machen
+
+- [_Code and the Gang_](http://codeandthegang.com/) - Bloggen mit mehreren persönlichen Ansichten zu einem Thema
+- Agenturen direkt anschreiben (z.B. die IHK anschreiben)
+- Regelmäßige Blogposts zu verschiedenen Themen oder _Shorties_ (Code-Snippets) von Gist etc.
+- Vorträge für das kommende Jahr sammeln und vorbereiten. (Andi)
 
 **Geplant:**
 
@@ -40,6 +46,9 @@ Ralf, Rolf, Andi, Chinthu, Kevin
 
 
 **Weblinks**
+
+- [GraphCMS](https://graphcms.com/)
+- 
 
 
 * []()
